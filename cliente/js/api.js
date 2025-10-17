@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost/ra1clienteservidorexmamen/servidor/api.php';
+const API_URL = 'http://localhost/Examen/Servidor/ra1clienteservidorexmamen/servidor/api.php';
 
 async function obtenerProductos() {
   const respuesta = await fetch(API_URL);
